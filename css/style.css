@@ -20,6 +20,12 @@
     color: #505050
 }
 
+.tittle img {
+    margin-top: -50px;
+    border: none;
+    background: none;
+}
+
 .menu {
     width: 100%;
     height: auto;
@@ -70,4 +76,11 @@
     width: 100%;
     height: auto;
     background-color: #e7e7eb;
+}
+
+.footer {
+    height: auto;
+    color: #ffffff;
+    background-color: #000000;
+
 }
